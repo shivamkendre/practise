@@ -1,3 +1,4 @@
 this is change1.
-change after pull.
 line 2 is deleted
+change after pull deleted
+new line added
