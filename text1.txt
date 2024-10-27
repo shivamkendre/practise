@@ -3,4 +3,6 @@ added new line here
 remote commit
 local commit
 
+master change
+
 
