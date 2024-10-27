@@ -2,3 +2,4 @@ File added in new branch
 added new line here
 remote commit
 local commit
+conflict should occur now
