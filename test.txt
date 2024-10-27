@@ -1,3 +1,4 @@
+I am from master 
 added new file
 
 conflicting change for pull
