@@ -1,6 +1,7 @@
 added new file
 
 conflicting change for pull
+non conflicting change by feature
 
 adding my contribution
 
